@@ -1,0 +1,27 @@
+/* Header.css */
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    background-color: #4f46e5; /* Indigo */
+    padding: 1rem 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 1.25rem;
+    transition: color 0.2s ease;
+  }
+  
+  nav a:hover {
+    color: #c7d2fe; /* lighter indigo on hover */
+  }
+  
+  nav h2 {
+    margin: 0;
+  }
+  

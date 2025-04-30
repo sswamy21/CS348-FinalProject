@@ -1,0 +1,15 @@
+table {
+    text-align: center;
+}
+
+th {
+    background-color: aquamarine;
+}
+
+tr {
+    background-color: azure;
+}
+button {
+    height: auto;
+    width: auto;
+}
